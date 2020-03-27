@@ -1,0 +1,16 @@
+{
+  "name": "express.invitation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "author": "Matt",
+  "license": "ISC"
+}
